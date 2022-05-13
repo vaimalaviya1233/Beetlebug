@@ -25,6 +25,9 @@ You can compile the source code in [Android Studio](https://developer.android.co
 [![Screenshot](https://hafiz.ng/wp-content/uploads/2022/04/download-e1649447487625.png)](https://github.com/hafiz-ng/Beetlebug/releases/download/v1.0/beetlebug.apk)
 
 
+## Screenshots
+![Screenshot](https://hafiz.ng/wp-content/uploads/2022/05/Frame-161.png)
+
 
 ## User Feedback
 I would love to hear from you about your experience with Beetlebug. Please send me an email at contact@hafiz.ng with your feedback and possible ways to improve the app.
