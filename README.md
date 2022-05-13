@@ -26,7 +26,7 @@ You can compile the source code in [Android Studio](https://developer.android.co
 
 
 ## Screenshots
-![Screenshot](https://hafiz.ng/wp-content/uploads/2022/05/Frame-161.png)
+![Screenshot](https://hafiz.ng/wp-content/uploads/2022/05/app_screenshots.png)
 
 
 ## User Feedback
